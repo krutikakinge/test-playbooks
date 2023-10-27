@@ -1,0 +1,10 @@
+10.74.249.91
+
+[all:vars]
+foo=bar
+
+[test]
+10.74.254.14
+
+[test:vars]
+foo1=test1
